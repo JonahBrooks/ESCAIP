@@ -1,0 +1,6 @@
+(8:s) <Terran Supply Depot>
+(10:s) <Terran Barracks,2>
+(12:s) <Terran Marine> default
+(15:s) <Terran Supply Depot>
+(23:s) <Terran Supply Depot>
+(31:s) <Terran Supply Depot>
